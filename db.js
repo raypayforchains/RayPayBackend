@@ -1,4 +1,4 @@
-const mysql = require("mysql");
+const mysql = require('mysq'");
 
 var connection = mysql.createPool({
   connectionLimit: 50,
